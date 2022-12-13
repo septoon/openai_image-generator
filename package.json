@@ -2,6 +2,7 @@
   "name": "openai-imagegenerator",
   "version": "1.0.0",
   "description": "",
+  "homepage": "http://septoon.github.io/openai_image-generator",
   "main": "index.js",
   "scripts": {
     "start": "node index",
